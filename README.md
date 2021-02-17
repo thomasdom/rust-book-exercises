@@ -7,7 +7,7 @@ The Rust version used to code, compile and run these exercises is:
 
 ```shell
 $ rustc --version
-rustc 1.47.0 (18bf6b4f0 2020-10-07)
+rustc 1.50.0 (cb75ad5db 2021-02-10)
 ```
 
 ## Installation
